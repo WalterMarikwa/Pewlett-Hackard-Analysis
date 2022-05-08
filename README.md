@@ -24,6 +24,8 @@ After joining multiple tables (employee, titles, salaries) and using filters to 
 
 ![Data](/images/unique_tittles.png)
 
+![Data](/images/employee_tittle.png)
+
 ## Results Deliverable 2
 
 In this challenge, I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965, and December 31, 1965.
