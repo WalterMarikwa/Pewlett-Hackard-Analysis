@@ -18,16 +18,17 @@ After joining multiple tables (employee, titles, salaries) and using filters to 
 
 ### Employee data mart with duplicates
 
-![Data](/images/img.png)
+![Data](/images/retirement_titles.png)
 
 ### Employee data mart without duplicates
 
-![Data](/images/img.png)
+![Data](/images/unique_titles.png)
 
 ## Results Deliverable 2
 
 In this challenge, I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965, and December 31, 1965.
-![Data](/images/img.png)
+
+![Data](/images/mentorship_eligibilty.png)
 
 ## Results Overall
 
