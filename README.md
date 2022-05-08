@@ -5,7 +5,7 @@ Using PostgreSQL to analyze data.
 
 Human Resources records for a huge agency with quite a few employees growing old into retirement. As far as the data source, There are six CSV files that are been supplied as records to load into the database tables that were created in PostgreSQL. The records include worker statistics indexed in diverse tables and the database is constructed as proven with the ERD image shown below which is used as a base to illustrate diverse SQL dataflow techniques.
 
-![ERD](/images/img.png)
+![ERD](/images/EmployeeDB.png)
 
 ## Resources
 
