@@ -10,7 +10,7 @@ Human Resources records for a huge agency with quite a few employees growing old
 ## Resources
 
 - PostgreSQL / pgAdmin4
-  - [PG Doc](https://www.postgresql.org/docs/)
+  - [PG ADMIN DOCUMENTAION](https://www.postgresql.org/docs/)
 
 ## Results Deliverable 1
 
@@ -18,11 +18,11 @@ After joining multiple tables (employee, titles, salaries) and using filters to 
 
 ### Employee data mart with duplicates
 
-![Data](/images/retirement_titles.png)
+![Data](/images/retirement_tittles.png)
 
 ### Employee data mart without duplicates
 
-![Data](/images/unique_titles.png)
+![Data](/images/unique_tittles.png)
 
 ## Results Deliverable 2
 
